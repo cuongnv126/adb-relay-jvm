@@ -46,7 +46,7 @@ Binds to `0.0.0.0` by default so LAN devices (e.g. **adb-relay-android** over Wi
 ```kotlin
 // build.gradle.kts
 dependencies {
-    implementation("org.androidgradletools:adbrelay-jvm:0.1.0")
+    implementation("org.androidgradletools:adbrelay-jvm:0.1.1")
 }
 ```
 
@@ -56,7 +56,7 @@ dependencies {
 <dependency>
     <groupId>org.androidgradletools</groupId>
     <artifactId>adbrelay-jvm</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1</version>
 </dependency>
 ```
 

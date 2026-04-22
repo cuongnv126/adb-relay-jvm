@@ -22,7 +22,7 @@ fun prop(key: String) = extra.properties[key]?.toString() ?: System.getenv(key) 
 
 // ---------- Project ----------
 group = "org.androidgradletools"
-version = "0.1.0"
+version = "0.1.1"
 
 repositories {
     mavenCentral()
